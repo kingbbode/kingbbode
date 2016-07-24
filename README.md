@@ -1,11 +1,12 @@
-# **Kingbbode 개발노트**
+# **Kingbbode 세미나**
 > 최초작성일 : 2016년 7월 24일
 
-Blog, OneNote, GitHub으로 분리되어 작성하던 개발에 대한 내용들을 GitHub로 통일  
+OneNote에 작성하던 세미나 내용들을 GitHub로 옮김
 
 ***
 
 ### 주 내용
-1.개발 지식 정리  
-2.알고리즘  
-[3. 세미나 노트](https://github.com/kingbbode/kingbbode/tree/master/seminar)
+1. 2016년 04월 30일 스프링 캠프 2016
+2. 2016년 06월 19일 구글 IO 2016 EXTENDED
+3. 2016년 06월 24일 나는프로그래머다
+4. 2016년 07월 23일 도메인 드리븐 TDD
