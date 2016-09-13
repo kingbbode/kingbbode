@@ -12,7 +12,8 @@ OneNote에 작성하던 세미나 내용들을 GitHub로 옮김
 [4. 2016년 07월 23일 도메인 드리븐 정기 세미나 : TDD](https://github.com/kingbbode/seminar/blob/master/seminar/20160723-domain-driven-TDD.md)  
 [5. 2016년 08월 10일 도메인 드리븐 정기 세미나 : APM - Scouter](https://github.com/kingbbode/seminar/blob/master/seminar/20160810-domain-driven-scouter.md)  
 [6. 2016년 08월 27일 GDG : 측정하는 놈, 그리는 놈, 로딩하는 놈](https://github.com/kingbbode/seminar/blob/master/seminar/20160827-GDG-loading.md)  
-[7. 2016년 09월 01일 JSCON:16](https://github.com/kingbbode/seminar/blob/master/seminar/20160901-JSCON16.md)
+[7. 2016년 09월 01일 JSCON:16](https://github.com/kingbbode/seminar/blob/master/seminar/20160901-JSCON16.md)  
+[8. 2016년 09월 10일 코드스테이트 J2S Conference 2016](https://github.com/kingbbode/seminar/blob/master/seminar/20160910-CODE-STATES-JS2-2016.md)
 
 ***
 
